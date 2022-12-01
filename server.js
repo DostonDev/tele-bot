@@ -7,7 +7,7 @@ const studentModel = require('./model/studentModel')
 const jsonData = require('./lang.json')
 const MainCtrl = require('./controller/mainCtrl')
 const app = express()
-const URL = 'mongodb://0.0.0.0:27017/student'
+const URL = 'mongodb+srv://daston:daston@cluster0.piz8cdi.mongodb.net/?retryWrites=true&w=majority'
 const adminChatId = '1329953638'
 
 app.listen(5000, () => {
