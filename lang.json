@@ -1,0 +1,22 @@
+{
+    "name":{
+        "uz":"Ism Familyangizni kiriting",
+        "ru":"Ism ruu"
+    },
+    "group":{
+        "uz":"Sinfni tanlang",
+        "ru":"sinf ru"
+    },
+    "phoneNumber":{
+        "uz":"Telefon raqamingizni kirting",
+        "ru":"number ru"
+    },
+    "end":{
+        "uz":"Muafaqqiyatli ro'yxatdan o'tdingiz\nTez orada Adminlarimiz siz bilan bo'g'lanadi\nUngacha biz haqimizdagi videolarni tomosha qiling",
+        "ru":"end ru"
+    },
+    "contact":{
+        "uz":"Kontaktni jo'natish",
+        "ru":"kon ru"
+    }
+}
